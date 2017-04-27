@@ -1,7 +1,7 @@
-<svg height="3486" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="3486" fill="#555" width="720"></rect>
+<svg height="3502" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="3502" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">23 megabytes installed</tspan>
+<tspan x="10" y="26">24 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ nw-builder@3.2.0 </tspan>
@@ -120,7 +120,7 @@
 <tspan x="10" y="1882">  │ │   ├─┬ dashdash@1.14.1 </tspan>
 <tspan x="10" y="1898">  │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="1914">  │ │   ├── ecc-jsbn@0.1.1 </tspan>
-<tspan x="10" y="1930">  │ │   ├─┬ getpass@0.1.6 </tspan>
+<tspan x="10" y="1930">  │ │   ├─┬ getpass@0.1.7 </tspan>
 <tspan x="10" y="1946">  │ │   │ └── assert-plus@1.0.0 </tspan>
 <tspan x="10" y="1962">  │ │   ├── jodid25519@1.0.2 </tspan>
 <tspan x="10" y="1978">  │ │   ├── jsbn@0.1.1 </tspan>
@@ -180,7 +180,7 @@
 <tspan x="10" y="2842">  │ │ ├── os-tmpdir@1.0.2 </tspan>
 <tspan x="10" y="2858">  │ │ ├── osenv@0.1.4 </tspan>
 <tspan x="10" y="2874">  │ │ ├── uuid@2.0.3 </tspan>
-<tspan x="10" y="2890">  │ │ └─┬ write-file-atomic@1.3.1 </tspan>
+<tspan x="10" y="2890">  │ │ └─┬ write-file-atomic@1.3.4 </tspan>
 <tspan x="10" y="2906">  │ │   ├── imurmurhash@0.1.4 </tspan>
 <tspan x="10" y="2922">  │ │   └── slide@1.1.6 </tspan>
 <tspan x="10" y="2938">  │ ├── is-npm@1.0.0 </tspan>
@@ -203,19 +203,20 @@
 <tspan x="10" y="3210">  │ │   │ ├── unzip-response@1.0.2 </tspan>
 <tspan x="10" y="3226">  │ │   │ └─┬ url-parse-lax@1.0.0 </tspan>
 <tspan x="10" y="3242">  │ │   │   └── prepend-http@1.0.4 </tspan>
-<tspan x="10" y="3258">  │ │   ├─┬ registry-auth-token@3.1.2 </tspan>
-<tspan x="10" y="3274">  │ │   │ └─┬ rc@1.2.1 </tspan>
-<tspan x="10" y="3290">  │ │   │   ├── deep-extend@0.4.1 </tspan>
-<tspan x="10" y="3306">  │ │   │   ├── ini@1.3.4 </tspan>
-<tspan x="10" y="3322">  │ │   │   ├── minimist@1.2.0 </tspan>
-<tspan x="10" y="3338">  │ │   │   └── strip-json-comments@2.0.1 </tspan>
-<tspan x="10" y="3354">  │ │   ├── registry-url@3.1.0 </tspan>
-<tspan x="10" y="3370">  │ │   └── semver@5.3.0 </tspan>
-<tspan x="10" y="3386">  │ ├── lazy-req@1.1.0 </tspan>
-<tspan x="10" y="3402">  │ ├─┬ semver-diff@2.1.0 </tspan>
-<tspan x="10" y="3418">  │ │ └── semver@5.3.0 </tspan>
-<tspan x="10" y="3434">  │ └─┬ xdg-basedir@2.0.0 </tspan>
-<tspan x="10" y="3450">  │   └── os-homedir@1.0.2 </tspan>
-<tspan x="10" y="3466">  └── winresourcer@0.9.0</tspan>
+<tspan x="10" y="3258">  │ │   ├─┬ registry-auth-token@3.3.0 </tspan>
+<tspan x="10" y="3274">  │ │   │ ├─┬ rc@1.2.1 </tspan>
+<tspan x="10" y="3290">  │ │   │ │ ├── deep-extend@0.4.1 </tspan>
+<tspan x="10" y="3306">  │ │   │ │ ├── ini@1.3.4 </tspan>
+<tspan x="10" y="3322">  │ │   │ │ ├── minimist@1.2.0 </tspan>
+<tspan x="10" y="3338">  │ │   │ │ └── strip-json-comments@2.0.1 </tspan>
+<tspan x="10" y="3354">  │ │   │ └── safe-buffer@5.0.1 </tspan>
+<tspan x="10" y="3370">  │ │   ├── registry-url@3.1.0 </tspan>
+<tspan x="10" y="3386">  │ │   └── semver@5.3.0 </tspan>
+<tspan x="10" y="3402">  │ ├── lazy-req@1.1.0 </tspan>
+<tspan x="10" y="3418">  │ ├─┬ semver-diff@2.1.0 </tspan>
+<tspan x="10" y="3434">  │ │ └── semver@5.3.0 </tspan>
+<tspan x="10" y="3450">  │ └─┬ xdg-basedir@2.0.0 </tspan>
+<tspan x="10" y="3466">  │   └── os-homedir@1.0.2 </tspan>
+<tspan x="10" y="3482">  └── winresourcer@0.9.0</tspan>
 </text>
 </svg>
